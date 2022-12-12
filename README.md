@@ -12,7 +12,6 @@ order Checkbook and  also get transaction Receipt and customer of the bank can c
 ![Screenshot (181)](https://user-images.githubusercontent.com/98160883/207004858-d9500d5f-75d5-4317-a889-a46c8bae83fa.png)
 ![Screenshot (182)](https://user-images.githubusercontent.com/98160883/207006606-4e6099f4-7fc1-4c5c-880f-937b1924f283.png)
 [Screenshot (183)](https://user-images.githubusercontent.com/98160883/207004893-ab0fa221-5881-4b90-8ef2-340f7862b883.png)
-
 ![Screenshot (184)](https://user-images.githubusercontent.com/98160883/207006660-d14eeddf-162c-40f8-bea9-ccd2af0187d4.png)
 ![Screenshot (185)](https://user-images.githubusercontent.com/98160883/207006677-131c87a2-8176-4b6b-b3f4-d3313b3cdcd3.png)
 ![Screenshot (186)](https://user-images.githubusercontent.com/98160883/207006690-1841bb51-6c45-416c-a5ec-40b2b7ae2cfe.png)
